@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookRentalApp</string>
+
+    <array name="area">
+        <item>Maninagar</item>
+        <item>Paldi</item>
+        <item>Anjali</item>
+        <item>Dharnidhar</item>
+        <item>Rambag</item>
+        <item>Navrangpura</item>
+        <item>Vadaj</item>
+        <item>New Vadaj</item>
+        <item>Krishnanagar</item>
+    </array>
+</resources>
